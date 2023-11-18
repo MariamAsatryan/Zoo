@@ -1,0 +1,2 @@
+D:\ProjectsC++\ACA\Zoo\Debug\Zoo.exe
+D:\ProjectsC++\ACA\Zoo\Debug\Zoo.pdb
